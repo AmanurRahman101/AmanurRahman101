@@ -10,7 +10,7 @@ I specialize in designing robust backend systems, integrating agentic AI workflo
 
 <br>
 
-<a href="#YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Website-7dcfff?style=for-the-badge&logo=appveyor&logoColor=1a1b26"></a>
+<a href="https://amanurrahman101.github.io/"><img src="https://img.shields.io/badge/Website-7dcfff?style=for-the-badge&logo=appveyor&logoColor=1a1b26"></a>
 <a href="mailto:rahmanamanur51@gmail.com"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b26"></a>
 <a href="https://www.linkedin.com/in/amanur-rahman-2a8833385"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b26"></a>
 
